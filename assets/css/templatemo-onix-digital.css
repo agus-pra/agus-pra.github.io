@@ -172,7 +172,7 @@ body {
 }
 
 .page-section {
-  margin-top: 120px;
+  margin-top: 20px;
 }
 
 .section-heading h2 {
@@ -875,8 +875,8 @@ Banner Style
   position: absolute;
   left: 0;
   top: 100px;
-  width: 518px;
-  height: 851px;
+  width: 418px;
+  height: 651px;
 }
 
 .main-banner:before {
@@ -886,9 +886,9 @@ Banner Style
   background-size: cover;
   position: absolute;
   right: 0;
-  top: 50px;
-  width: 600px;
-  height: 600px;
+  top: 200px;
+  width: 500px;
+  height: 388px;
 }
 
 .main-banner .item {
@@ -1003,7 +1003,7 @@ Services Style
 .our-services {
   position: relative;
   margin-top: 0px;
-  padding-top: 120px;
+  padding-top: 10px;
 }
 
 .our-services .section-heading {
@@ -1719,7 +1719,7 @@ contact
 }
 
 .contact-us .info span i {
-  float: left;
+  float: none;
   width: 46px;
   height: 46px;
   display: inline-block;
